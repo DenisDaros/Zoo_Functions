@@ -7,7 +7,7 @@ function isManager(id) {
 
 function getRelatedEmployees(managerId) {
 //  if (isManager(managerId) === true) {
-  
+
 }
 
 module.exports = { isManager, getRelatedEmployees };
