@@ -27,5 +27,4 @@ function countAnimals(animal) {
   }
   return listaAnimal()[specie];
 }
-console.log(countAnimals({ specie: 'lions', sex: 'male' }));
 module.exports = countAnimals;
